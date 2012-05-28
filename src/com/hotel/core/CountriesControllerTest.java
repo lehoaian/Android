@@ -16,6 +16,7 @@ public class CountriesControllerTest {
     @org.junit.Test
     public void testGetAllCountries() throws Exception {
         _contrl.getAllCountries();
+
         Assert.assertEquals(17, 17);
     }
 
