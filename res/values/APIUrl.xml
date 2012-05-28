@@ -1,0 +1,4 @@
+<resources>
+    <string name="all_countries_api">http://google.com/s=%%</string>
+    <string name="hotel_detail_api">http://google.com/ss=%%</string>
+</resources>
